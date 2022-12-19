@@ -1,1 +1,1 @@
-To access the dashboard, visit swankynoob.epizy.com
+To access the dashboard, visit http://www.swankynoob.epizy.com
